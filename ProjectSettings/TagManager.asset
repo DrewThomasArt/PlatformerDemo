@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - NPC
+  - Enemy
+  - SquashableEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1768001825
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foliage
+    uniqueID: 358397167
+    locked: 0
+  - name: Objects
+    uniqueID: 323821141
+    locked: 0
+  - name: Platforms
+    uniqueID: 267472949
+    locked: 0
+  - name: NPCs
+    uniqueID: 207836087
+    locked: 0
+  - name: Enemy
+    uniqueID: 3980154477
+    locked: 0
+  - name: Player
+    uniqueID: 2415223531
+    locked: 0

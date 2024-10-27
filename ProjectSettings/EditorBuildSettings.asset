@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitlePage.unity
+    guid: 366bdcdb2d3c9124da3aad68f306a523
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 3c8381edb63b2224cb8c0724e2995f84
+  - enabled: 1
+    path: Assets/Scenes/Elmridge.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Forest.unity
+    guid: 6a684413886931a43b870938ab262bab
+  m_configObjects: {}
